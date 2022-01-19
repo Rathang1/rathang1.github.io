@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1df485be76953719e98cef05d75968c7",
+    "revision": "89e1f6c82c158717f0fb03f117dcec9e",
     "url": "/index.html"
   },
   {
-    "revision": "8265b0ff20c62dbbb43a",
+    "revision": "02603c66c8f09b6c5d63",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "889a93ef259cb34d219f",
+    "revision": "dd0736745483847ec14b",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "5e1995fceafddb6e2ad8",
+    "revision": "0d61090b77e53aeea3fd",
     "url": "/static/css/main.7b2e3dd9.chunk.css"
   },
   {
-    "revision": "2c6eb7942cfb7147412b",
-    "url": "/static/js/2.82ef1e5c.chunk.js"
+    "revision": "740dab8d4dfc4d966776",
+    "url": "/static/js/2.2415196c.chunk.js"
   },
   {
     "revision": "b9941b26ce7f87a25d1a3bc0d5ae97bc",
-    "url": "/static/js/2.82ef1e5c.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2415196c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8265b0ff20c62dbbb43a",
-    "url": "/static/js/3.057ad5ff.chunk.js"
+    "revision": "02603c66c8f09b6c5d63",
+    "url": "/static/js/3.a562134a.chunk.js"
   },
   {
-    "revision": "889a93ef259cb34d219f",
-    "url": "/static/js/4.5a3da6c2.chunk.js"
+    "revision": "dd0736745483847ec14b",
+    "url": "/static/js/4.57dcc423.chunk.js"
   },
   {
-    "revision": "5e1995fceafddb6e2ad8",
-    "url": "/static/js/main.ecb09812.chunk.js"
+    "revision": "0d61090b77e53aeea3fd",
+    "url": "/static/js/main.f7b6e90a.chunk.js"
   },
   {
-    "revision": "8b45ecfe343f6c5f959c",
-    "url": "/static/js/runtime-main.0ae8bf0a.js"
+    "revision": "db8b28868aa1bbeeaa0d",
+    "url": "/static/js/runtime-main.74ec862b.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "51cf7192327488da3d2a171280680c16",
     "url": "/static/media/contactMailDark.51cf7192.svg"
+  },
+  {
+    "revision": "5e6472a888778918d51caab3aec0c3aa",
+    "url": "/static/media/datacamp001.5e6472a8.png"
   },
   {
     "revision": "59389695208d7454c6607bed51ed4316",
