@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7b2e3dd9.chunk.css",
-    "main.js": "/static/js/main.bf607cf3.chunk.js",
-    "main.js.map": "/static/js/main.bf607cf3.chunk.js.map",
+    "main.js": "/static/js/main.48e79c39.chunk.js",
+    "main.js.map": "/static/js/main.48e79c39.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.30f85adc.js",
     "runtime-main.js.map": "/static/js/runtime-main.30f85adc.js.map",
     "static/js/2.0532dda4.chunk.js": "/static/js/2.0532dda4.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.5b63595d.chunk.js": "/static/js/4.5b63595d.chunk.js",
     "static/js/4.5b63595d.chunk.js.map": "/static/js/4.5b63595d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cb904e249ca3899a802ab8eddee31928.js": "/precache-manifest.cb904e249ca3899a802ab8eddee31928.js",
+    "precache-manifest.e544861b3ac81711ea391952d7f0ddf8.js": "/precache-manifest.e544861b3ac81711ea391952d7f0ddf8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
@@ -22,6 +22,7 @@
     "static/js/2.0532dda4.chunk.js.LICENSE.txt": "/static/js/2.0532dda4.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/MAP.jpg": "/static/media/MAP.a0cd72ce.jpg",
+    "static/media/Xebia.png": "/static/media/Xebia.1d285503.png",
     "static/media/big_data.png": "/static/media/big_data.37badc7f.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/datacamp001.png": "/static/media/datacamp001.5e6472a8.png",
@@ -31,7 +32,6 @@
     "static/media/ieee.png": "/static/media/ieee.3d737774.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
-    "static/media/optum.png": "/static/media/optum.ca98cb86.png",
     "static/media/python_basics.png": "/static/media/python_basics.52e9006a.png",
     "static/media/rice.png": "/static/media/rice.66477cbc.png",
     "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
@@ -42,6 +42,6 @@
     "static/js/runtime-main.30f85adc.js",
     "static/js/2.0532dda4.chunk.js",
     "static/css/main.7b2e3dd9.chunk.css",
-    "static/js/main.bf607cf3.chunk.js"
+    "static/js/main.48e79c39.chunk.js"
   ]
 }
