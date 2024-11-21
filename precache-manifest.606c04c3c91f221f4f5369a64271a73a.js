@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1773eb7d822dce236bed00fe0ce1f73",
+    "revision": "2d0ddb7c470f23d028868b7ed16dd49c",
     "url": "/index.html"
   },
   {
-    "revision": "c6af324b0c9f3e39f10b",
+    "revision": "b7de65f3e7fae6adeede",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "078e85b4fd1f6d661687",
+    "revision": "5f461fbdfeb6ac068e7c",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "5a73f863c1638c360957",
+    "revision": "062127ea921dfa04f950",
     "url": "/static/css/main.7b2e3dd9.chunk.css"
   },
   {
-    "revision": "e8e7d8f751e8e40f4cde",
-    "url": "/static/js/2.0532dda4.chunk.js"
+    "revision": "d3fc3bac0ca77a84595a",
+    "url": "/static/js/2.19faec47.chunk.js"
   },
   {
     "revision": "b9941b26ce7f87a25d1a3bc0d5ae97bc",
-    "url": "/static/js/2.0532dda4.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.19faec47.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c6af324b0c9f3e39f10b",
-    "url": "/static/js/3.1b5bc47d.chunk.js"
+    "revision": "b7de65f3e7fae6adeede",
+    "url": "/static/js/3.336764d6.chunk.js"
   },
   {
-    "revision": "078e85b4fd1f6d661687",
-    "url": "/static/js/4.5b63595d.chunk.js"
+    "revision": "5f461fbdfeb6ac068e7c",
+    "url": "/static/js/4.653bd756.chunk.js"
   },
   {
-    "revision": "5a73f863c1638c360957",
-    "url": "/static/js/main.ef8ff84a.chunk.js"
+    "revision": "062127ea921dfa04f950",
+    "url": "/static/js/main.f2924fec.chunk.js"
   },
   {
-    "revision": "5c8e7a49ced232902ebd",
-    "url": "/static/js/runtime-main.30f85adc.js"
+    "revision": "90a2a2a2cb06bc7242e0",
+    "url": "/static/js/runtime-main.fbe8d47d.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1d285503dd7ebaa6c08b6737881e82df",
     "url": "/static/media/Xebia.1d285503.png"
+  },
+  {
+    "revision": "2ba4aa8622773712eb8092741bff15d6",
+    "url": "/static/media/az-fundamentals.2ba4aa86.png"
   },
   {
     "revision": "37badc7f6bfb01e4cc33d042663fb907",
